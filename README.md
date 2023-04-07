@@ -101,7 +101,7 @@ The post contents is fixed at the right side while page is scrolling. There will
 ### Code Highlight
 
 While the jekyll is update to 3.x.x, you can use github flavored markdown to write code.
-
+****
 More info to see [syntax-highlighter-changed](https://jekyllrb.com/docs/upgrading/2-to-3/#syntax-highlighter-changed).
 
 ### Light Shadow
