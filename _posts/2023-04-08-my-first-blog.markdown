@@ -11,8 +11,5 @@ mathjax: true
 * content
 {:toc}
 
-Hi there! This is my **first** blog!
-
-I will update *studies,coding,etc.*
 
 See you soon!!!
