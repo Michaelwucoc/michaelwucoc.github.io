@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "成功了！"
+date:   2023-04-08 12:06:05
+categories: Artical
+tags: Artical
+comments: true
+---
+
+如你所见，这个网站可以正常工作的，我耗费了近1个小时完成它，看到他工作，我非常高兴！
