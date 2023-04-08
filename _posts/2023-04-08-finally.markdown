@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "成功了！"
+title:  成功了！
 date:   2023-04-08 12:06:05
 categories: Artical
 tags: Artical
