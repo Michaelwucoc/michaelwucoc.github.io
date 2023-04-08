@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "My First Blog"
+date:   2023-4-8 9:59:59
+categories: Greetings
+tags: Greetings
+excerpt: Hello!
+---
+
+Hi there! This is my **first** blog!
+I will update *studies,coding,etc.*
+
+See you soon!
