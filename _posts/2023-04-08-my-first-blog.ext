@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "My First Blog"
-date:   2023-4-8 09:59:59
+title:  "my first blog"
+date:   2023-04-08 09:59:59
 categories: Greetings
 tags: Greetings
 excerpt: HI!
+mathjax: true
 ---
 
 Hi there! This is my **first** blog!
