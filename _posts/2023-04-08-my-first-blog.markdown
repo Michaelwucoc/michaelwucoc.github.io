@@ -4,6 +4,7 @@ title:  "你好！欢迎来到我的博客！"
 date:   2023-04-08 11:14:54
 categories: testpassage
 tags: test
+comments: true
 ---
 
 
